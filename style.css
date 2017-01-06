@@ -1,0 +1,45 @@
+body{
+    background-image: url("image/022.jpg");
+    background-size: 1050px;
+}
+#img-pot{
+    width: 250px;
+    height: 100px;
+    margin: 0 380px;
+}
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    color: darkslategrey;
+    padding: 5px;
+    margin-top: 5px;
+}
+#h{
+    border: 1px solid rgba(00, 00, 00, 0.3);
+    width: 700px;
+}
+#srh{
+    margin-left: 280px;
+    font-size: 20px;
+    width: 450px;
+    height: 30px;
+    border-radius: 50px;
+    background-color: rgba(00, 00, 00, 0.2);
+    outline: none;
+    border: 2px solid rgba(00, 100, 00, 0.2)
+}
+#img-sam{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 15px;
+    padding: 5px;
+    margin-top: 50px;
+    opacity: 0.6;
+    border-radius: 40px;
+}
+#img-sam:hover{
+    opacity: 1;
+}
+
